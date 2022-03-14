@@ -1,0 +1,2 @@
+# polymorphicmanytomany
+ Section 17_Laravel_polymorphicmanytomany
